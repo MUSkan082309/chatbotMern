@@ -72,5 +72,3 @@ cd ../frontend
 npm run dev
 
 
-
-"# Updated by Muskan" 
